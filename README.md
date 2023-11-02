@@ -7,3 +7,6 @@ This is our final year Btech Project on Eye Gaze for Attention Monitoring Throug
 Link: https://www.kaggle.com/datasets/imrankhan77/autistic-children-facial-data-set
 
 Above is the dataset used in our model to train and test.
+
+# Requirements
+Kindly install the environment.yml file in your environment to install all the necessary libraries.
